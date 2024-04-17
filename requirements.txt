@@ -1,0 +1,20 @@
+altgraph @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/altgraph-0.17.2-py2.py3-none-any.whl
+asgiref==3.7.2
+Django==4.2.10
+django-test-without-migrations==0.6
+future @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/future-0.18.2-py3-none-any.whl
+gitdb==4.0.11
+GitPython==3.1.42
+macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/macholib-1.15.2-py2.py3-none-any.whl
+migrations==0.1.1
+mysql-connector-python==8.3.0
+pillow==10.2.0
+pygame==2.5.2
+PyMySQL==1.1.0
+python-dateutil==2.8.2
+PyYAML==6.0.1
+six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/six-1.15.0-py2.py3-none-any.whl
+smmap==5.0.1
+sqlparse==0.4.4
+turtle==0.0.1
+typing_extensions==4.10.0
